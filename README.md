@@ -34,7 +34,8 @@ Para executar o projeto de automação para adicionar um produto ao carrinho da 
 
 O teste automatizado será executado, abrindo o navegador, navegando até o site da Amazon, adicionando um produto ao carrinho e verificando se o produto foi adicionado corretamente.
 
-
+Comando para rodar o testes:
+C:\Users\user\Desktop\5-automation\carrinhoDeComprasAmazon>  robot -d /results .\amazonTestes.carrinhoDeCompras.robot
 Autor
 
 [Izael Coelho]
